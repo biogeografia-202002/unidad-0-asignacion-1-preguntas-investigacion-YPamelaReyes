@@ -1,10 +1,10 @@
 # Mi/s pregunta/s de investigación es/son la/s siguiente/s:
 
-*Cual la diversidad alfa de las familias del orden de los coleopteros encontradas en los transectos 1 y 2? 
+* Cual la diversidad alfa de las familias del orden de los coleopteros encontradas en los transectos 1 y 2? 
 
-* Exite una diversidad alfa homogenea en los territorios trabajados?
+* Exite una diversidad alfa homogenea en los transectos trabajados?
 
-*   
+* Como esta representada la riqueza de familia por cuadriculas y cual es la cuadriculas con mayor riqueza? 
 
 # Base común
 
