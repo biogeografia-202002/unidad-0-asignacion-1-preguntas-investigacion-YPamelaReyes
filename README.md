@@ -1,10 +1,10 @@
 # Mi/s pregunta/s de investigación es/son la/s siguiente/s:
 
-* Cual la diversidad alfa de las familias del orden de los coleopteros encontradas en los transectos 1 y 2? 
+* Basándonos en los datos de colecta, como consideras el nivel de asociación de las familias del orden coleópteros entre los transectos 1 y 2 visto desde las prespectivas de la gráfica de diversidad alpha de los mismos? 
 
-* Exite una diversidad alfa homogenea en los transectos trabajados?
+* Exite una diversidad alfa homogénea en los transectos trabajados?
 
-* Como esta representada la riqueza de familia por cuadriculas y cual es la cuadriculas con mayor riqueza? 
+* Exprese de forma gráfica la riqueza de familias del orden coleópteros por cuadrículas de cada transecto y cual es la cuadrículas con mayor riqueza? 
 
 # Base común
 
