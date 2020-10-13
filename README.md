@@ -1,11 +1,9 @@
 # Mi/s pregunta/s de investigación es/son la/s siguiente/s:
 
-* Basándonos en los datos de colecta, como consideras el nivel de asociación de las familias del orden coleópteros entre los transectos 1 y 2 visto desde las prespectivas de la gráfica de diversidad alpha de los mismos? 
+* 
 
-* Exite una diversidad alfa homogénea en los transectos trabajados?
-
-* Exprese de forma gráfica la riqueza de familias del orden coleópteros por cuadrículas de cada transecto y cual es la cuadrículas con mayor riqueza? 
-
+* 
+*
 # Base común
 
 Formula tu/s pregunta/s de investigación. Ten en cuenta que tu/s pregunta/s debe...
